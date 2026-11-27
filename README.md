@@ -1,2 +1,0 @@
-# channeld
-Entertainment 
